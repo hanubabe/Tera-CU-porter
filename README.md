@@ -7,7 +7,8 @@ Lavathus – The Lord of the Lake  - !lava
 Drakhan – The Tyrant of Gidd Mountain - !drak
 
 Kaithan— The King of Crabs   -  !ka
-Secure spot in cu - !ss1
+
+Secure spot in cu(Near to lavathus on the hilltop) - !ss1
 
 Spot where there is a choke point  - !ss2
 
