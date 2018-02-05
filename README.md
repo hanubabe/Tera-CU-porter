@@ -13,3 +13,5 @@ Secure spot in cu(Near to lavathus on the hilltop) - !ss1
 Spot where there is a choke point  - !ss2
 
 Use it at your own risk.
+
+Locations will be updated on a weekly basis or not..
